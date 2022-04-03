@@ -18,3 +18,5 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
+git clone https://github.com/CHN-beta/xmurp-ua.git package/xmurp-ua
+git clone https://github.com/chenhaowen01/gdut-drcom-for-openwrt.git package/gdut-drcom
